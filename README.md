@@ -1,30 +1,28 @@
 # auto_exchange
-**CMPE180-38 Group Project**
 A portal for the company, which will be used for buying and selling of Used Car(s) through its branches.
 
-<b> Below are few screen shots of the application </b><br><br>
+## Below are few screen shots of the application
 
-<b> Home page </b><br>
-<br>
+* Home page
+
 <img height="700" src="https://raw.githubusercontent.com/rishirajrandive/auto_exchange/master/images/homepage.png" alt="Home page"/>
-</br>
 
-<b> Company branches </b><br>
-<br>
+
+* Company branches
+
 <img height="700" src="https://raw.githubusercontent.com/rishirajrandive/auto_exchange/master/images/branches.png" alt="Company branch page"/>
-</br>
 
-<b> Cars </b><br>
-<br>
+
+* Cars
+
 <img height="700" src="https://raw.githubusercontent.com/rishirajrandive/auto_exchange/master/images/cars.png" alt="Cars page"/>
-</br>
 
-<b> Customers </b><br>
-<br>
+
+* Customers
+
 <img height="700" src="https://raw.githubusercontent.com/rishirajrandive/auto_exchange/master/images/customers.png" alt="Customers page"/>
-</br>
 
-<b> Transactions </b><br>
-<br>
+
+* Transactions
+
 <img height="700" src="https://raw.githubusercontent.com/rishirajrandive/auto_exchange/master/images/transaction.png" alt="Transactions page"/>
-</br>
